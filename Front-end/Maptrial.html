@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Maptrial.css">
+    <link rel="icon" type="image/x-icon" href="icon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+    <link
+    rel="stylesheet"
+    href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css"
+    type="text/css"
+  />
+    <title>SafeNav</title>
+</head>
+<body>
+    <!-- Your content will go here -->
+    <div class="container-wrapper">
+        <!-- Left side containers -->
+        <div class="left-container-group">
+            <div class="left-container-1">
+                <img src="Safe.png" alt="Labels" class="image">
+            </div>
+            <div class="left-container-2">
+                <div class="content-wrapper">
+                    <h2>Get Directions</h2>
+                    <div class="location-inputs">
+                        <input id="origin" type="text" placeholder="Start location">
+                        <input id="destination" type="text" placeholder="Destination">
+                    </div>
+                    <button class="get-directions">Get Directions</button>
+                </div>
+            </div>
+            <div class="left-container-3">
+                    <span type="text">Time</span>
+                    <div id="currentTime"></div>
+                    <script>
+                        function updateTime() {
+                            // Create a new Date object
+                            var now = new Date();
+
+                            // Extract hours, minutes, and seconds
+                            var hours = now.getHours();
+                            var minutes = now.getMinutes();
+                            var seconds = now.getSeconds();
+
+                            // Pad single digit minutes and seconds with leading zeros
+                            minutes = minutes < 10 ? '0' + minutes : minutes;
+                            seconds = seconds < 10 ? '0' + seconds : seconds;
+
+                            // Display the time in the div element
+                            document.getElementById('currentTime').textContent = hours + ':' + minutes + ':' + seconds;
+                            }
+
+                            // Call updateTime every second (1000 milliseconds)
+                            setInterval(updateTime, 1000);
+
+                            // Call updateTime initially to display the time immediately
+                            updateTime();
+                    </script>
+            </div>
+            <div class="left-container-4">
+                <!-- Contact icons container -->
+                <div class="contact-icons">
+                    <style>
+                        .contact-icons {
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            margin-top: 20px;
+                            margin-left:30px;
+                        }
+                        .contact-icons i {
+                            font-size: 40px;
+                            margin: 0 20px;
+                            cursor: pointer;
+                            color: #333;
+                        }
+                    </style>
+                    <!-- Call John Doe -->
+                    <a href="tel:9880737876">
+                        <i class="fas fa-phone"></i>
+                    </a>
+                    <!-- Message Jane Doe -->
+                    <a href="sms:9880737876">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <!-- Police station icon -->
+                    <a href="tel:100">
+                        <i class="fas fa-shield-alt"></i>
+                    </a>
+                </div>
+                
+            </div>
+            <div class="left-container-5">
+                
+                <style>
+                   .button-container {
+                    text-align: center;
+                    margin-top: 50px;
+                    }
+                  .popup {
+                  display: none;
+                  position: fixed;
+                  top: 50%;
+                  left: 50%;
+                  transform: translate(-50%, -50%);
+                  background-color: #fff;
+                  padding: 20px;
+                  border: 2px solid #333;
+                  border-radius: 5px;
+                  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+                  z-index: 1000;
+                  }
+                </style>
+                <div class="button-container">
+                    <button onclick="showSafePlaces()">Safe Exits</button>
+                    <style>
+                        button {
+                           background-color: #4CAF50;
+                           font-size: 2vh;
+                           color: black;
+                           padding: 10px;
+                           border: none;
+                           cursor: pointer;
+                           width: 100%;
+                           height:5vh;
+                        }
+
+                        button:hover {
+                            background-color: #45a049;
+                        }
+                    </style>
+                </div>
+
+                <div class="popup" id="popup">
+                    <h2>Safe Places nearby</h2><br>
+                    <p>
+                        <p><a href="Web.html" id="Exits">Police Stations</a></p><br>
+                        <p><a href="Web.html" id="Exits">Hospitals</a></p><br>
+                        <p><a href="Web.html" id="Exits">Metro Stations</a></p><br>
+                        <p><a href="Web.html" id="Exits">Malls</a></p><br>
+                    </p>
+                    <button onclick="closePopup()">Close</button>
+                    
+                </div>
+
+                
+            </div>
+            <div class="left-container-6">
+                <br>
+                <a href="Web.html" class="route1">Route 1</a>
+                <br>
+                <br>
+                <br>
+                <a href="Web.html" class="route2">Route 2</a>
+            </div>
+            <div class="left-container-7">
+                <br>
+                <br>
+                <img src="Cotravellers.png">
+            </div>
+            <div class="left-container-8">
+                <br>
+               <button id="feedbackButton">Give Feedback</button>
+
+               <script>
+                  const feedbackButton = document.getElementById('feedbackButton');
+                  feedbackButton.addEventListener('click', () => {
+            window.open('https://forms.gle/5SxfTZYw5stQEWK88', '_blank');
+            });
+            </script>
+            </div>
+            <div class="left-container-9">
+                <style>
+                    .reportButton {
+                     background-color: #fff;
+                     color: #000;
+                     padding: 15px 32px;
+                     text-align: center;
+                     text-decoration: none;
+                     display: inline-block;
+                     font-size: 15px;
+                     margin: 4px 2px;
+                     cursor: pointer;
+                     border-radius: 3px;
+                     border-color: #000;
+                    }
+
+        /* Style for the popup container */
+                     .popup {
+                      display: none;
+                      position: fixed;
+                      top: 50%;
+                      left: 50%;
+                      transform: translate(-50%, -50%);
+                      background-color: #f1f1f1;
+                      padding: 20px;
+                      border: 1px solid #ccc;
+                      border-radius: 8px;
+                      z-index: 1;
+                    }
+                </style>
+
+                <button class="reportButton" onclick="showup()">Report</button>
+
+    <!-- Popup container -->
+                <div id="reportPopup" class="popup">
+                <span onclick="closePopup()" style="cursor: pointer; float: right;">&times;</span>
+                <h2>Report a Problem</h2>
+                <p>Please describe your problem:</p>
+                <!-- Input field for user input -->
+                <textarea id="problemDescription" rows="4" cols="50"></textarea><br><br>
+               <button onclick="submitReport()">Submit</button>
+               </div>
+
+    <!-- JavaScript to handle popup display -->
+               <script>
+        // Function to display the popup
+                  function showup() {
+                     document.getElementById('reportPopup').style.display = 'block';
+                  }
+
+        // Function to close the popup
+                  function closeup() {
+                      document.getElementById('reportPopup').style.display = 'none';
+                 }
+
+        // Function to handle the report submission
+                  function submitReport() {
+            // Get the user's problem description from the input field
+                     var problemDescription = document.getElementById('problemDescription').value;
+            // You can perform further actions here, like sending the report to a server, etc.
+                  alert('Your problem has been reported: ' + problemDescription);
+            // Close the popup after submission
+                  closeup();
+        }
+                </script>
+            </div>
+            
+        </div>
+        <!-- Big container on the right -->
+        <div id='map'></div>
+    </div>
+    
+    <script src="Maptrial.js"></script>
+</body>
+</html>
+
+

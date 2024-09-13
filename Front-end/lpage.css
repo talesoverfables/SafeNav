@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background-image: url('bground.jpg');
+    background-size: cover;
+    
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+    
+
+
+/* .landing-page {
+    background: url('icon.jpg') top left no-repeat, url('logotxt.jpg') bottom right no-repeat;
+    background-size: auto, auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+} */
+
+.landing-content{
+    font-size: 36px;
+}
+
+    
+
+.top-right {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.login-btn,
+.signup-btn {
+    padding: 5px 10px;
+    margin-left: 10px;
+    background-color: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.landing-content {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.explore-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #FFD700;
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.explore-btn:hover {
+    background-color: #FFA500;
+}
+
+.login-btn,
+.signup-btn {
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: #000; /* Green color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px; /* Larger font size */
+    border: 2px solid #000000; /* Border color same as background */
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    text-color: #000000;
+}
+
+.login-btn:hover,
+.signup-btn:hover {
+    background-color: #000; /* Darker green on hover */
+    border-color: #000000; /* Darker green on hover */
+}
+
+

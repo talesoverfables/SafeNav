@@ -1,0 +1,118 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    /* background-color: #efb1b1; */
+    background-image: url('bground.jpg');
+    background-size: cover;
+    
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+input[type="text"]{
+    padding-right: 30px;
+    background-image: url('Username.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 20px;
+}
+input[type="password"]{
+    padding-right: 30px;
+    background-image: url('lock.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 20px;
+}
+
+
+.login-container {
+    width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #ffff;
+}
+.forgotPassword{
+    float:right;
+    text-align: right;
+    margin-top: 0.1px;
+}
+h1{
+    text-align: center;
+    margin-top: 0;
+}
+button{
+    border-radius: 50px;
+    cursor:pointers;
+    border:none;
+}
+.clear{
+    clear:both
+}
+
+.signup {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    width:400px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #fff;
+}
+h2{
+    text-align: center;
+    margin-top: 0;
+}
+
+.pass-recovery {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #fff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+.login-btn{
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 200px;
+}
+

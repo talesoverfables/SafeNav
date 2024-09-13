@@ -1,0 +1,3065 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Bahadur Shah Zafar Marg",
+        "Street name": "bahadur shah zafar marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.27",
+        "Nearest police chowki (in km)": "2.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2419,
+          28.6291
+        ],
+        "type": "Point"
+      },
+      "id": "03cab293f20b9c7fed2540c1cc9f3986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west  Delhi",
+        "Rape": "234",
+        "place": "Aruna Asaf Ali Marg",
+        "Street name": "aruna asaf ali marg",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "2",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "5.1",
+        "Nearest police chowki (in km)": "17.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1894,
+          28.5541
+        ],
+        "type": "Point"
+      },
+      "id": "050e50160215217506a4b70bad749f71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Motilal Nehru Road",
+        "Street name": "motilal nehru road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.3",
+        "Nearest police chowki (in km)": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2126,
+          28.6355
+        ],
+        "type": "Point"
+      },
+      "id": "084d389eab08639c9988c62cc1af5e52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Gamal Abdel Nasser Marg",
+        "Street name": "gamal abdel nasser marg",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "1.5",
+        "Nearest police chowki (in km)": "0.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1957,
+          28.5679
+        ],
+        "type": "Point"
+      },
+      "id": "0ad174f8fb3804c98061f971e1a7e924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Archbishop Makarios Marg",
+        "Street name": "archbishop makarios marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "1",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "10",
+        "Nearest police chowki (in km)": "0.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2145,
+          28.6332
+        ],
+        "type": "Point"
+      },
+      "id": "0d5754fb22dcbb13f447a6f626f57d4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "109",
+        "Stalking": "208",
+        "Type of road": "major district road",
+        "District in Delhi": "north west",
+        "Rape": "165",
+        "place": "Azadpur Bridge",
+        "Street name": "azadpur bridge",
+        "Acid attack": "404",
+        "Sexual Harassment": "23",
+        "Other Assault on Women": "51",
+        "Safety": "1",
+        "Population Density": "3656539",
+        "Kidnapping & Abduction_Total": "663",
+        "Use of criminal force to women": "61",
+        "No. of Crime": "1684",
+        "Nearest metro station distance (in km)": "1.9",
+        "Nearest police chowki (in km)": "2.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1794,
+          28.7071
+        ],
+        "type": "Point"
+      },
+      "id": "0d9a6d8add02e2c8dbdc9ed97dcc7870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Mansingh Road",
+        "Street name": "mansingh road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "2",
+        "Nearest police chowki (in km)": "2.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2092,
+          28.6205
+        ],
+        "type": "Point"
+      },
+      "id": "106dd57d4df3ad6a092613d08572b6db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "flyover",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "ISBT Kashmere Gate Flyover",
+        "Street name": "isbt kashmere gate flyover",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.05",
+        "Nearest police chowki (in km)": "1.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2336,
+          28.6643
+        ],
+        "type": "Point"
+      },
+      "id": "1690c7a16c08ce07eb90c49a3b0157f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "109",
+        "Stalking": "208",
+        "Type of road": "district road",
+        "District in Delhi": "north west",
+        "Rape": "165",
+        "place": "Haneef Uddin Marg",
+        "Street name": "haneef uddin marg",
+        "Acid attack": "404",
+        "Sexual Harassment": "23",
+        "Other Assault on Women": "51",
+        "Safety": "1",
+        "Population Density": "3656539",
+        "Kidnapping & Abduction_Total": "663",
+        "Use of criminal force to women": "61",
+        "No. of Crime": "1684",
+        "Nearest metro station distance (in km)": "0.05",
+        "Nearest police chowki (in km)": "0.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1982,
+          28.6033
+        ],
+        "type": "Point"
+      },
+      "id": "1bf1d6ead4207c305812b03423f64650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Kashmiri Gate",
+        "Street name": "kashmiri gate",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.7",
+        "Nearest police chowki (in km)": "1.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2315,
+          28.6668
+        ],
+        "type": "Point"
+      },
+      "id": "1d056e063ed524bb634a74557347648d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "Ring road",
+        "District in Delhi": "everywhere",
+        "Rape": "",
+        "place": "Delhi Ring Road",
+        "Street name": "delhi ring road",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "3",
+        "Population Density": "",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "2.1",
+        "Nearest police chowki (in km)": "14.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2075,
+          28.6133
+        ],
+        "type": "Point"
+      },
+      "id": "1ebe601b1b4ef98cedd874d05a5d85e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "42",
+        "Stalking": "109",
+        "Type of road": "major district road",
+        "District in Delhi": "north",
+        "Rape": "60",
+        "place": "Wazirpur Bridge",
+        "Street name": "wazirpur bridge",
+        "Acid attack": "180",
+        "Sexual Harassment": "12",
+        "Other Assault on Women": "18",
+        "Safety": "0",
+        "Population Density": "887978",
+        "Kidnapping & Abduction_Total": "279",
+        "Use of criminal force to women": "16",
+        "No. of Crime": "716",
+        "Nearest metro station distance (in km)": "15",
+        "Nearest police chowki (in km)": "10.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1677,
+          28.6995
+        ],
+        "type": "Point"
+      },
+      "id": "21df7c01d7b51c577baa3eb6fedece7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Justice S.B. Road",
+        "Street name": "justice s.b. road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1",
+        "Nearest police chowki (in km)": "0.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2375,
+          28.6262
+        ],
+        "type": "Point"
+      },
+      "id": "226f5682530a27b97bef17df7aa9e876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Dr Bishambar Das Marg",
+        "Street name": "dr bishambar das marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.7",
+        "Nearest police chowki (in km)": "1.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2164,
+          28.6256
+        ],
+        "type": "Point"
+      },
+      "id": "24ca1e2c00f29b0a38461e48630e5b27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Maharshi Raman Marg",
+        "Street name": "maharshi raman marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "1",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "11",
+        "Nearest police chowki (in km)": "0.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2276,
+          28.6171
+        ],
+        "type": "Point"
+      },
+      "id": "25e01de68d1cb2415c1f97da9a4f3a11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Indira Chowk",
+        "Street name": "indira chowk",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "4",
+        "Nearest police chowki (in km)": "523.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2287,
+          28.6604
+        ],
+        "type": "Point"
+      },
+      "id": "2a29afaf866191e67881cc6ddf81807c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Sardar Patel Marg",
+        "Street name": "sardar patel marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "2",
+        "Nearest police chowki (in km)": "0.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2262,
+          28.5896
+        ],
+        "type": "Point"
+      },
+      "id": "2b11e6bf97505be7d65283a93546b3a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Rajesh Pilot Marg",
+        "Street name": "rajesh pilot marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "2.5",
+        "Nearest police chowki (in km)": "0.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2155,
+          28.6237
+        ],
+        "type": "Point"
+      },
+      "id": "2e017b9ab6a187416ade8fa43f5d3fd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Bhishm Pitamah Marg Xing",
+        "Street name": "bhishm pitamah marg xing",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1",
+        "Nearest police chowki (in km)": "4.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2381,
+          28.6277
+        ],
+        "type": "Point"
+      },
+      "id": "31735bdc35153eed0ca4ed8537e6780c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major distict road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Chlemsford Road",
+        "Street name": "chlemsford road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "1",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "11",
+        "Nearest police chowki (in km)": "0.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2183,
+          28.6268
+        ],
+        "type": "Point"
+      },
+      "id": "3593a213d3d68e10c9b971fbe96a728d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Prithviraj Road",
+        "Street name": "prithviraj road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1",
+        "Nearest police chowki (in km)": "1.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2193,
+          28.6016
+        ],
+        "type": "Point"
+      },
+      "id": "38f5f08fa3e449c5626569440562aafc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Bhai Vir Singh Marg",
+        "Street name": "bhai vir singh marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.5",
+        "Nearest police chowki (in km)": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1996,
+          28.6326
+        ],
+        "type": "Point"
+      },
+      "id": "3b180db77265ebf8fa4fc6326e1b384f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "171",
+        "Stalking": "143",
+        "Type of road": "major district road",
+        "District in Delhi": "east",
+        "Rape": "230",
+        "place": "Maharaja Agrasen Road",
+        "Street name": "maharaja agrasen road",
+        "Acid attack": "446",
+        "Sexual Harassment": "36",
+        "Other Assault on Women": "114",
+        "Safety": "2",
+        "Population Density": "1709346",
+        "Kidnapping & Abduction_Total": "678",
+        "Use of criminal force to women": "91",
+        "No. of Crime": "1909",
+        "Nearest metro station distance (in km)": "4.6",
+        "Nearest police chowki (in km)": "31.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2327,
+          28.6611
+        ],
+        "type": "Point"
+      },
+      "id": "3bccd65d647c93bc99f2da3ee332d0f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "137",
+        "Stalking": "223",
+        "Type of road": "flyover",
+        "District in Delhi": "west",
+        "Rape": "251",
+        "place": "Shivaji Place District Centre Flyover",
+        "Street name": "shivaji place district centre flyover",
+        "Acid attack": "484",
+        "Sexual Harassment": "64",
+        "Other Assault on Women": "63",
+        "Safety": "2",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "848",
+        "Use of criminal force to women": "52",
+        "No. of Crime": "2122",
+        "Nearest metro station distance (in km)": "1.9",
+        "Nearest police chowki (in km)": "24.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1268,
+          28.6576
+        ],
+        "type": "Point"
+      },
+      "id": "3da68082e16fede69f984334d4b5fcd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Hailey Road",
+        "Street name": "hailey road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.95",
+        "Nearest police chowki (in km)": "0.3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2319,
+          28.6275
+        ],
+        "type": "Point"
+      },
+      "id": "3ed9371fc860d0cb424f2d9a2b10061d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Humayun Road",
+        "Street name": "humayun road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.55",
+        "Nearest police chowki (in km)": "0.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2446,
+          28.5987
+        ],
+        "type": "Point"
+      },
+      "id": "3fde5752f493e97565219961d59774de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "major district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Vivekanand Marg",
+        "Street name": "vivekanand marg",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "2.3",
+        "Nearest police chowki (in km)": "0.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2361,
+          28.5667
+        ],
+        "type": "Point"
+      },
+      "id": "401aea89e9d26fcc055b61b91bfa58f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Defence Colony Underpass",
+        "Street name": "defence colony underpass",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "0.568",
+        "Nearest police chowki (in km)": "2.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2422,
+          28.5733
+        ],
+        "type": "Point"
+      },
+      "id": "402657b3dbc9c20e935ff8800ac5537e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "137",
+        "Stalking": "223",
+        "Type of road": "major district road",
+        "District in Delhi": "west",
+        "Rape": "251",
+        "place": "Nelson Mandela Road",
+        "Street name": "nelson mandela road",
+        "Acid attack": "484",
+        "Sexual Harassment": "64",
+        "Other Assault on Women": "63",
+        "Safety": "1",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "848",
+        "Use of criminal force to women": "52",
+        "No. of Crime": "2122",
+        "Nearest metro station distance (in km)": "5.5",
+        "Nearest police chowki (in km)": "1.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2018,
+          28.5621
+        ],
+        "type": "Point"
+      },
+      "id": "4200b26fd44e0deb6f8ec07533c19d6e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "flyover",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Moolchand Flyover",
+        "Street name": "moolchand flyover",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "2.2",
+        "Nearest police chowki (in km)": "2.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2428,
+          28.5665
+        ],
+        "type": "Point"
+      },
+      "id": "4253cd4c575271753de7dcc308b0ca9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "flyover",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "ITO Flyover",
+        "Street name": "ito flyover",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.55",
+        "Nearest police chowki (in km)": "2.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2439,
+          28.6365
+        ],
+        "type": "Point"
+      },
+      "id": "42b89d76e70e5d1c53e742c3c65c581a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Dr APJ Abdul Kalam Road",
+        "Street name": "dr apj abdul kalam road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.5",
+        "Nearest police chowki (in km)": "0.65"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2296,
+          28.6012
+        ],
+        "type": "Point"
+      },
+      "id": "44ac06c30c14218356457b1f54662bf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Rajiv Chowk",
+        "Street name": "rajiv chowk",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.1",
+        "Nearest police chowki (in km)": "0.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2198,
+          28.6315
+        ],
+        "type": "Point"
+      },
+      "id": "487802cc79ddfa796e5765034dbd08ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "national highway",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "National Highway 2",
+        "Street name": "national highway 2",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "2",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "600",
+        "Nearest police chowki (in km)": "600"
+      },
+      "geometry": {
+        "coordinates": [
+          77.0821,
+          28.5852
+        ],
+        "type": "Point"
+      },
+      "id": "496903a5fd11126b399fb2b996d4f2ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Mustafa Kemal Ataturk Marg",
+        "Street name": "mustafa kemal ataturk marg",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "0.66",
+        "Nearest police chowki (in km)": "0.071"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2297,
+          28.6238
+        ],
+        "type": "Point"
+      },
+      "id": "4bf551c428ae8455abe75ce52229caf9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "national highway",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "National Highway 10",
+        "Street name": "national highway 10",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "0",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "600",
+        "Nearest police chowki (in km)": "600"
+      },
+      "geometry": {
+        "coordinates": [
+          77.0721,
+          28.5233
+        ],
+        "type": "Point"
+      },
+      "id": "4c44c90ab2c2d7823baa9846500ef029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "137",
+        "Stalking": "223",
+        "Type of road": "flyover",
+        "District in Delhi": "west",
+        "Rape": "251",
+        "place": "Mayapuri Flyover",
+        "Street name": "mayapuri flyover",
+        "Acid attack": "484",
+        "Sexual Harassment": "64",
+        "Other Assault on Women": "63",
+        "Safety": "1",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "848",
+        "Use of criminal force to women": "52",
+        "No. of Crime": "2122",
+        "Nearest metro station distance (in km)": "0.26",
+        "Nearest police chowki (in km)": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1125,
+          28.6297
+        ],
+        "type": "Point"
+      },
+      "id": "518aa2572d0a0c1e92c32644531215a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Barakhamba Road",
+        "Street name": "barakhamba road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "2.4",
+        "Nearest police chowki (in km)": "0.393"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2236,
+          28.6304
+        ],
+        "type": "Point"
+      },
+      "id": "52029197b3606e8651d4eaa95c06831a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Amrita Shergil Marg",
+        "Street name": "amrita shergil marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.2",
+        "Nearest police chowki (in km)": "0.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2171,
+          28.5947
+        ],
+        "type": "Point"
+      },
+      "id": "522e71c54500bbc63b9147bff724dcde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "South Extension Xing",
+        "Street name": "south extension xing",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "0.294",
+        "Nearest police chowki (in km)": "1.3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2344,
+          28.5622
+        ],
+        "type": "Point"
+      },
+      "id": "54dd98abb8182b283400af5c554aeafb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "expressway",
+        "District in Delhi": "West",
+        "Rape": "",
+        "place": "Delhi Gurgaon Expressway",
+        "Street name": "delhi gurgaon expressway",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "3",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "8.2",
+        "Nearest police chowki (in km)": "4.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.0837,
+          28.4742
+        ],
+        "type": "Point"
+      },
+      "id": "554804d193a3e12eb0eb19967a3f8b68"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Tolstoy Marg",
+        "Street name": "tolstoy marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.35",
+        "Nearest police chowki (in km)": "1.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2195,
+          28.6266
+        ],
+        "type": "Point"
+      },
+      "id": "565deebca08fa20c264193f4bd6a252b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "national highway",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "National Highway 24",
+        "Street name": "national highway 24",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "0",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "600",
+        "Nearest police chowki (in km)": "600"
+      },
+      "geometry": {
+        "coordinates": [
+          77.4087,
+          28.6725
+        ],
+        "type": "Point"
+      },
+      "id": "5701cbaecc26ee12eb353e2eabd824e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Thyagaraja Marg",
+        "Street name": "thyagaraja marg",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "2",
+        "Nearest police chowki (in km)": "0.3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2202,
+          28.5668
+        ],
+        "type": "Point"
+      },
+      "id": "5d0caa9d1f18b7f4a5da5c95c309dc65"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "171",
+        "Stalking": "143",
+        "Type of road": "flyover",
+        "District in Delhi": "east",
+        "Rape": "230",
+        "place": "Moti Nagar Flyover",
+        "Street name": "moti nagar flyover",
+        "Acid attack": "446",
+        "Sexual Harassment": "36",
+        "Other Assault on Women": "114",
+        "Safety": "3",
+        "Population Density": "1709346",
+        "Kidnapping & Abduction_Total": "678",
+        "Use of criminal force to women": "91",
+        "No. of Crime": "1909",
+        "Nearest metro station distance (in km)": "3.5",
+        "Nearest police chowki (in km)": "2.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1405,
+          28.6573
+        ],
+        "type": "Point"
+      },
+      "id": "62945c49b2b2faa2ff676e72039d5338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Safdarjung Road",
+        "Street name": "safdarjung road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.6",
+        "Nearest police chowki (in km)": "1.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2075,
+          28.5794
+        ],
+        "type": "Point"
+      },
+      "id": "63ff1a791fdf427732a5fecc0f86a24e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "109",
+        "Stalking": "208",
+        "Type of road": "flyover",
+        "District in Delhi": "north west",
+        "Rape": "165",
+        "place": "Britannia Chowk Flyover",
+        "Street name": "britannia chowk flyover",
+        "Acid attack": "404",
+        "Sexual Harassment": "23",
+        "Other Assault on Women": "51",
+        "Safety": "1",
+        "Population Density": "3656539",
+        "Kidnapping & Abduction_Total": "663",
+        "Use of criminal force to women": "61",
+        "No. of Crime": "1684",
+        "Nearest metro station distance (in km)": "2.3",
+        "Nearest police chowki (in km)": "7.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1308,
+          28.7009
+        ],
+        "type": "Point"
+      },
+      "id": "64e89570c254a13e6e822cb4430eb1c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Lok Kalyan Marg",
+        "Street name": "lok kalyan marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.6",
+        "Nearest police chowki (in km)": "2.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1997,
+          28.6178
+        ],
+        "type": "Point"
+      },
+      "id": "663790657e5270f8989dd4bd331a522f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "August Kranti Marg Xing",
+        "Street name": "august kranti marg xing",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "2",
+        "Nearest police chowki (in km)": "1.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2344,
+          28.5678
+        ],
+        "type": "Point"
+      },
+      "id": "6a3e07408f6cd4d24e7315f1bae84479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Kwame Nkrumah Marg",
+        "Street name": "kwame nkrumah marg",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "3",
+        "Nearest police chowki (in km)": "0.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2166,
+          28.5619
+        ],
+        "type": "Point"
+      },
+      "id": "6b0c88912e16b886b01ba22166f7a93a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Rafi Marg",
+        "Street name": "rafi marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.35",
+        "Nearest police chowki (in km)": "2.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2178,
+          28.6272
+        ],
+        "type": "Point"
+      },
+      "id": "72b2278d265cf62e2855a91c67e44877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "flyover",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Africa Avenue Flyover",
+        "Street name": "africa avenue flyover",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "2",
+        "Nearest police chowki (in km)": "0.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1884,
+          28.5693
+        ],
+        "type": "Point"
+      },
+      "id": "7308956a4ce3924fbb2cf8db4096a8cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Dhaula Kuan",
+        "Street name": "dhaula kuan",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "1.9",
+        "Nearest police chowki (in km)": "5.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1613,
+          28.5917
+        ],
+        "type": "Point"
+      },
+      "id": "73f783ff3210367895d08d6add2fbd86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central Delhi",
+        "Rape": "91",
+        "place": "Akbar Road",
+        "Street name": "akbar road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.2",
+        "Nearest police chowki (in km)": "2.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2161,
+          28.6108
+        ],
+        "type": "Point"
+      },
+      "id": "7aba1791ca06e1edd00c3541663eeab3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Motilal Nehru Marg",
+        "Street name": "motilal nehru marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.55",
+        "Nearest police chowki (in km)": "0.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2217,
+          28.6251
+        ],
+        "type": "Point"
+      },
+      "id": "7b4586916dddad1fb0fb0c4e4e148473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "171",
+        "Stalking": "224",
+        "Type of road": "major district road",
+        "District in Delhi": "north east",
+        "Rape": "237",
+        "place": "Grand Trunk Road",
+        "Street name": "grand trunk road",
+        "Acid attack": "492",
+        "Sexual Harassment": "46",
+        "Other Assault on Women": "50",
+        "Safety": "3",
+        "Population Density": "2241624",
+        "Kidnapping & Abduction_Total": "1047",
+        "Use of criminal force to women": "47",
+        "No. of Crime": "2314",
+        "Nearest metro station distance (in km)": "0.141",
+        "Nearest police chowki (in km)": "45"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2416,
+          28.6303
+        ],
+        "type": "Point"
+      },
+      "id": "7c560b443f37eef736afe8d5b0aa315b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Andr� Malraux Marg",
+        "Street name": "andr� malraux marg",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "3.5",
+        "Nearest police chowki (in km)": "2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1528,
+          28.5673
+        ],
+        "type": "Point"
+      },
+      "id": "7e12fea305d8b5fbd1ade53a613c54af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "137",
+        "Stalking": "223",
+        "Type of road": "flyover",
+        "District in Delhi": "west",
+        "Rape": "251",
+        "place": "Punjabi Bagh Flyover",
+        "Street name": "punjabi bagh flyover",
+        "Acid attack": "484",
+        "Sexual Harassment": "64",
+        "Other Assault on Women": "63",
+        "Safety": "1",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "848",
+        "Use of criminal force to women": "52",
+        "No. of Crime": "2122",
+        "Nearest metro station distance (in km)": "3.6",
+        "Nearest police chowki (in km)": "0.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1319,
+          28.6788
+        ],
+        "type": "Point"
+      },
+      "id": "8081b2000fb82cc0930d0671170c4eff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Najaf Khan Road",
+        "Street name": "najaf khan road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.1",
+        "Nearest police chowki (in km)": "1.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1902,
+          28.6513
+        ],
+        "type": "Point"
+      },
+      "id": "8658241dc7e6e5c663ae22f538be736d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Maulana Azad Road",
+        "Street name": "maulana azad road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.202",
+        "Nearest police chowki (in km)": "0.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2061,
+          28.6341
+        ],
+        "type": "Point"
+      },
+      "id": "869c7d332f327ae3483d8c8f970111b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "109",
+        "Stalking": "208",
+        "Type of road": "major district road",
+        "District in Delhi": "north west",
+        "Rape": "165",
+        "place": "Outer Ring Road",
+        "Street name": "outer ring road",
+        "Acid attack": "404",
+        "Sexual Harassment": "23",
+        "Other Assault on Women": "51",
+        "Safety": "1",
+        "Population Density": "3656539",
+        "Kidnapping & Abduction_Total": "663",
+        "Use of criminal force to women": "61",
+        "No. of Crime": "1684",
+        "Nearest metro station distance (in km)": "1.1",
+        "Nearest police chowki (in km)": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1142,
+          28.7082
+        ],
+        "type": "Point"
+      },
+      "id": "8cb6492f63449f2ea5a5fe5a193f2fc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Tilak Marg",
+        "Street name": "tilak marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1",
+        "Nearest police chowki (in km)": "0.3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2216,
+          28.6232
+        ],
+        "type": "Point"
+      },
+      "id": "8feee1662e02af721744b27006e7fa59"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Nizamuddin Bridge",
+        "Street name": "nizamuddin bridge",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "7.9",
+        "Nearest police chowki (in km)": "6.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2493,
+          28.5857
+        ],
+        "type": "Point"
+      },
+      "id": "9008734cf1af75b364507342c875a6fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Jai Singh Marg",
+        "Street name": "jai singh marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.55",
+        "Nearest police chowki (in km)": "4.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2281,
+          28.6141
+        ],
+        "type": "Point"
+      },
+      "id": "91f27dafb210b45f5ee46603bf3dbf87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "national highway",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "National Highway 1",
+        "Street name": "national highway 1",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "3",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "197",
+        "Nearest police chowki (in km)": "600"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1291,
+          28.4859
+        ],
+        "type": "Point"
+      },
+      "id": "92ed0eacc049273453cac481337a5b3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Subramania Bharti Marg",
+        "Street name": "subramania bharti marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.134",
+        "Nearest police chowki (in km)": "0.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2343,
+          28.6308
+        ],
+        "type": "Point"
+      },
+      "id": "99b4d89823f152ae6721f1e49885cb05"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "flyover",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Lajpat Nagar Flyover",
+        "Street name": "lajpat nagar flyover",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "3.2",
+        "Nearest police chowki (in km)": "5.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2463,
+          28.5719
+        ],
+        "type": "Point"
+      },
+      "id": "9a46785d0145c3d2b15084a03b8937a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Old Hanuman Mandir/Iron Bridge/Old Delhi Xing/Yamuna Bazar Bridge",
+        "Street name": "old hanuman mandir/ iron bridge/old delhi xing/ yamuna bazar bridge",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.593",
+        "Nearest police chowki (in km)": "5.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2379,
+          28.6569
+        ],
+        "type": "Point"
+      },
+      "id": "9b27643fc9b52e6cb9f23acb4737f5a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "25",
+        "Stalking": "15",
+        "Type of road": "flyover",
+        "District in Delhi": "new delhi",
+        "Rape": "20",
+        "place": "Motibagh Flyover",
+        "Street name": "motibagh flyover",
+        "Acid attack": "56",
+        "Sexual Harassment": "1",
+        "Other Assault on Women": "18",
+        "Safety": "1",
+        "Population Density": "142004",
+        "Kidnapping & Abduction_Total": "44",
+        "Use of criminal force to women": "14",
+        "No. of Crime": "193",
+        "Nearest metro station distance (in km)": "1",
+        "Nearest police chowki (in km)": "5.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1795,
+          28.5867
+        ],
+        "type": "Point"
+      },
+      "id": "9e4f255069d10475daf12d0d08d1f326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "expressway",
+        "District in Delhi": "gautam buddh",
+        "Rape": "",
+        "place": "Faridabad-Noida-Ghaziabad Expressway",
+        "Street name": "faridabad-noida-ghaziabad expressway",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "1",
+        "Population Density": "1674714",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "6.1",
+        "Nearest police chowki (in km)": "4.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.3673,
+          28.4812
+        ],
+        "type": "Point"
+      },
+      "id": "a27dfa6b4263d5777019ce5bb650b2d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "137",
+        "Stalking": "223",
+        "Type of road": "district road",
+        "District in Delhi": "west",
+        "Rape": "251",
+        "place": "Madhuman Chowk Underpass",
+        "Street name": "madhuman chowk underpass",
+        "Acid attack": "484",
+        "Sexual Harassment": "64",
+        "Other Assault on Women": "63",
+        "Safety": "1",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "848",
+        "Use of criminal force to women": "52",
+        "No. of Crime": "2122",
+        "Nearest metro station distance (in km)": "1.4",
+        "Nearest police chowki (in km)": "2.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.0713,
+          28.6898
+        ],
+        "type": "Point"
+      },
+      "id": "a6ef373f1aecbfcf8172fc98a297ec14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Tughlaq Road",
+        "Street name": "tughlaq road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.047",
+        "Nearest police chowki (in km)": "0.23"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2203,
+          28.6283
+        ],
+        "type": "Point"
+      },
+      "id": "a83b1a6fde98cac06a1d52e3c130fa45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Naraina Bridge",
+        "Street name": "naraina bridge",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "5.7",
+        "Nearest police chowki (in km)": "5.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1439,
+          28.6253
+        ],
+        "type": "Point"
+      },
+      "id": "a9fe5c4729a3e5e93162356eba919c47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "25",
+        "Stalking": "15",
+        "Type of road": "major district road",
+        "District in Delhi": "new delhi",
+        "Rape": "20",
+        "place": "Jawahar Lal Nehru Marg",
+        "Street name": "jawahar lal nehru marg",
+        "Acid attack": "56",
+        "Sexual Harassment": "1",
+        "Other Assault on Women": "18",
+        "Safety": "1",
+        "Population Density": "142004",
+        "Kidnapping & Abduction_Total": "44",
+        "Use of criminal force to women": "14",
+        "No. of Crime": "193",
+        "Nearest metro station distance (in km)": "1.3",
+        "Nearest police chowki (in km)": "5.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2023,
+          28.6166
+        ],
+        "type": "Point"
+      },
+      "id": "abefce3995895c4ce29af9d0034345b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "",
+        "place": "Mustafa Kemal Ataturk Marg",
+        "Street name": "mustafa kemal ataturk marg",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "2",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "0.786",
+        "Nearest police chowki (in km)": "40"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2327,
+          28.5896
+        ],
+        "type": "Point"
+      },
+      "id": "acd1b05ed1692bcb1a1809e058fb0499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Tees January Marg",
+        "Street name": "tees january marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.2",
+        "Nearest police chowki (in km)": "1.4"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2157,
+          28.6037
+        ],
+        "type": "Point"
+      },
+      "id": "ad71fd5586a208f11d0bb6d40a324510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Balwant Rai Mehta Lane",
+        "Street name": "balwant rai mehta lane",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.3",
+        "Nearest police chowki (in km)": "2.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2137,
+          28.6291
+        ],
+        "type": "Point"
+      },
+      "id": "af27063759957fe013a1352e54653cb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Krishna Menon Road",
+        "Street name": "krishna menon road",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "0.472",
+        "Nearest police chowki (in km)": "0.792"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2209,
+          28.5929
+        ],
+        "type": "Point"
+      },
+      "id": "b02404f022282d920f6834de2784405c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Dara Shikoh Road",
+        "Street name": "dara shikoh road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.1",
+        "Nearest police chowki (in km)": "0.85"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2367,
+          28.6234
+        ],
+        "type": "Point"
+      },
+      "id": "b232e2172049d33ebcd8e56dd98a8144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "major district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Mother Teresa Crescent",
+        "Street name": "mother teresa crescent",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "6.1",
+        "Nearest police chowki (in km)": "0.156"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1723,
+          28.5611
+        ],
+        "type": "Point"
+      },
+      "id": "b66b0daa25bbb9e16f5c7d853fc0d81d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Kasturba Gandhi Marg",
+        "Street name": "kasturba gandhi marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.5",
+        "Nearest police chowki (in km)": "1.6"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2208,
+          28.6228
+        ],
+        "type": "Point"
+      },
+      "id": "b70324ff567eaf91c017b137a3695b1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "171",
+        "Stalking": "224",
+        "Type of road": "major district road",
+        "District in Delhi": "north east",
+        "Rape": "237",
+        "place": "Inner Ring Road",
+        "Street name": "inner ring road",
+        "Acid attack": "492",
+        "Sexual Harassment": "46",
+        "Other Assault on Women": "50",
+        "Safety": "0",
+        "Population Density": "2241624",
+        "Kidnapping & Abduction_Total": "1047",
+        "Use of criminal force to women": "47",
+        "No. of Crime": "2314",
+        "Nearest metro station distance (in km)": "9.2",
+        "Nearest police chowki (in km)": "18.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.3092,
+          28.6801
+        ],
+        "type": "Point"
+      },
+      "id": "bd4fc4c620d8cdb6c238fa8050b5960d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "flyover",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "IIT Flyover",
+        "Street name": "iit flyover",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "0.157",
+        "Nearest police chowki (in km)": "4.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1957,
+          28.5464
+        ],
+        "type": "Point"
+      },
+      "id": "beadede63947e23971b10bf59e1f91b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "national highway",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "National Highway 8",
+        "Street name": "national highway 8",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "0",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "600",
+        "Nearest police chowki (in km)": "600"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1067,
+          28.4828
+        ],
+        "type": "Point"
+      },
+      "id": "bf7565aa540a4c610e332818d098db8f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Shahjahan Road",
+        "Street name": "shahjahan road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "2.6",
+        "Nearest police chowki (in km)": "1.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2093,
+          28.6251
+        ],
+        "type": "Point"
+      },
+      "id": "c4c694c96a80a239eab18228e66d0e38"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "major district road",
+        "District in Delhi": "gautam buddh",
+        "Rape": "",
+        "place": "DND Flyway",
+        "Street name": "dnd flyway",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "1",
+        "Population Density": "1674714",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "13",
+        "Nearest police chowki (in km)": "13.3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.3216,
+          28.5712
+        ],
+        "type": "Point"
+      },
+      "id": "c4d71450b4af6398e1812645255fd20c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "expressway",
+        "District in Delhi": "gautam buddh",
+        "Rape": "",
+        "place": "Eastern Peripheral Expressway",
+        "Street name": "eastern peripheral expressway",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "3",
+        "Population Density": "1674714",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "90.6",
+        "Nearest police chowki (in km)": "20.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.4517,
+          28.6569
+        ],
+        "type": "Point"
+      },
+      "id": "c83aa9db5a42dec1c5be2e769d0aefa2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Lodhi Road",
+        "Street name": "lodhi road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "3.5",
+        "Nearest police chowki (in km)": "1.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2282,
+          28.5907
+        ],
+        "type": "Point"
+      },
+      "id": "ce2efe8c76e62135f0eeb3b1f5b2af66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Baba Kharak Singh Marg",
+        "Street name": "baba kharak singh marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.1",
+        "Nearest police chowki (in km)": "1.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2098,
+          28.6272
+        ],
+        "type": "Point"
+      },
+      "id": "d0ae1abba8b7c80756f663cdc62391b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Connaught Lane",
+        "Street name": "connaught lane",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.6",
+        "Nearest police chowki (in km)": "0.5"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2197,
+          28.6303
+        ],
+        "type": "Point"
+      },
+      "id": "d28b99be96a750877c239e769291c4fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "district",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Ajmal Khan Road",
+        "Street name": "ajmal khan road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.75",
+        "Nearest police chowki (in km)": "0.3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1932,
+          28.6457
+        ],
+        "type": "Point"
+      },
+      "id": "d3653e454a51dfa60ba1328b59a1e2c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "district",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Nehru Nagar Bridge",
+        "Street name": "nehru nagar bridge",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "1.3",
+        "Nearest police chowki (in km)": "5.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2462,
+          28.5582
+        ],
+        "type": "Point"
+      },
+      "id": "d4a1ed07f7ebf27f17bef3db28d64a2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Rajaji Marg",
+        "Street name": "rajaji marg",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "0.623",
+        "Nearest police chowki (in km)": "1.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2143,
+          28.6224
+        ],
+        "type": "Point"
+      },
+      "id": "d9f0009eeae30ae7d98621a38c145c14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "district road",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Alexander M. Kadakin Marg",
+        "Street name": "alexander m. kadakin marg",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "1.3",
+        "Nearest police chowki (in km)": "5.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1671,
+          28.5664
+        ],
+        "type": "Point"
+      },
+      "id": "dfb661116591470e472f06710bda9731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "86",
+        "Stalking": "248",
+        "Type of road": "flyover",
+        "District in Delhi": "south west",
+        "Rape": "234",
+        "place": "Saronjini Nagar Flyover",
+        "Street name": "saronjini nagar flyover",
+        "Acid attack": "494",
+        "Sexual Harassment": "57",
+        "Other Assault on Women": "68",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "719",
+        "Use of criminal force to women": "99",
+        "No. of Crime": "2005",
+        "Nearest metro station distance (in km)": "0.1",
+        "Nearest police chowki (in km)": "2.9"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1999,
+          28.5795
+        ],
+        "type": "Point"
+      },
+      "id": "e2306d7310f8fc34c8fef686b7063ce2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Justice Sunanda Bhandare Marg",
+        "Street name": "justice sunanda bhandare marg",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "12",
+        "Nearest police chowki (in km)": "2.2"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2188,
+          28.6347
+        ],
+        "type": "Point"
+      },
+      "id": "e85d3cb0fb889062427d7730688466ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Mohammad Ali Jauhar Marg",
+        "Street name": "mohammad ali jauhar marg",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "9",
+        "Nearest police chowki (in km)": "1.1"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2582,
+          28.5633
+        ],
+        "type": "Point"
+      },
+      "id": "e890a910e1889ecef807db5f10c1139a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "150",
+        "Stalking": "406",
+        "Type of road": "major district road",
+        "District in Delhi": "south",
+        "Rape": "280",
+        "place": "Mathura Road",
+        "Street name": "mathura road",
+        "Acid attack": "595",
+        "Sexual Harassment": "39",
+        "Other Assault on Women": "665",
+        "Safety": "0",
+        "Population Density": "2731929",
+        "Kidnapping & Abduction_Total": "627",
+        "Use of criminal force to women": "",
+        "No. of Crime": "2762",
+        "Nearest metro station distance (in km)": "3.2",
+        "Nearest police chowki (in km)": "14.8"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2595,
+          28.5519
+        ],
+        "type": "Point"
+      },
+      "id": "eb1e68734523ae3ab0cd995117738a86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "137",
+        "Stalking": "223",
+        "Type of road": "flyover",
+        "District in Delhi": "west",
+        "Rape": "251",
+        "place": "Kirti Nagar Flyover",
+        "Street name": "kirti nagar flyover",
+        "Acid attack": "484",
+        "Sexual Harassment": "64",
+        "Other Assault on Women": "63",
+        "Safety": "1",
+        "Population Density": "2543243",
+        "Kidnapping & Abduction_Total": "848",
+        "Use of criminal force to women": "52",
+        "No. of Crime": "2122",
+        "Nearest metro station distance (in km)": "0.056",
+        "Nearest police chowki (in km)": "0.85"
+      },
+      "geometry": {
+        "coordinates": [
+          77.1386,
+          28.6512
+        ],
+        "type": "Point"
+      },
+      "id": "ec40c59d1e20cca606fe609fa17661c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "85",
+        "Stalking": "274",
+        "Type of road": "major district road",
+        "District in Delhi": "south west Delhi",
+        "Rape": "266",
+        "place": "Ashram Chowk",
+        "Street name": "ashram chowk",
+        "Acid attack": "469",
+        "Sexual Harassment": "34",
+        "Other Assault on Women": "123",
+        "Safety": "1",
+        "Population Density": "2292958",
+        "Kidnapping & Abduction_Total": "683",
+        "Use of criminal force to women": "74",
+        "No. of Crime": "2008",
+        "Nearest metro station distance (in km)": "5.7",
+        "Nearest police chowki (in km)": "2.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2334,
+          28.5664
+        ],
+        "type": "Point"
+      },
+      "id": "ef28f054c99df1394e74576a2070086b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "54",
+        "Stalking": "123",
+        "Type of road": "major district road",
+        "District in Delhi": "central",
+        "Rape": "91",
+        "place": "Janpath Road",
+        "Street name": "janpath road",
+        "Acid attack": "212",
+        "Sexual Harassment": "9",
+        "Other Assault on Women": "37",
+        "Safety": "3",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "305",
+        "Use of criminal force to women": "26",
+        "No. of Crime": "857",
+        "Nearest metro station distance (in km)": "1.2",
+        "Nearest police chowki (in km)": "0.7"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2134,
+          28.6142
+        ],
+        "type": "Point"
+      },
+      "id": "fa9a35a67810a8623b013dc77071f9c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Assault on Women": "",
+        "Stalking": "",
+        "Type of road": "flyover",
+        "District in Delhi": "centre",
+        "Rape": "",
+        "place": "AIIMS Flyover Complex",
+        "Street name": "aiims flyover complex",
+        "Acid attack": "",
+        "Sexual Harassment": "",
+        "Other Assault on Women": "",
+        "Safety": "2",
+        "Population Density": "582320",
+        "Kidnapping & Abduction_Total": "",
+        "Use of criminal force to women": "",
+        "No. of Crime": "",
+        "Nearest metro station distance (in km)": "1",
+        "Nearest police chowki (in km)": "3"
+      },
+      "geometry": {
+        "coordinates": [
+          77.2091,
+          28.5662
+        ],
+        "type": "Point"
+      },
+      "id": "fc6197a84b66b00e55e551c5d81afd14"
+    }
+  ],
+  "type": "FeatureCollection"
+}
