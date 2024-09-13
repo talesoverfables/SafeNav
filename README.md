@@ -46,17 +46,17 @@ To run SafeNav locally, follow these steps:
 
 ## Data and Safety Scoring
 SafeNav uses a combination of the following attributes for safety scoring:
-Street Name
-Coordinates
-Safety Rating
-Number of Crimes
-Street Type
-Traffic Level
-Lighting Quality
-CCTV Coverage
-Distance to Nearest Police Station (km)
-Pedestrian Activity
-Nearby Public Spaces
-Crime Severity Index
-Police Patrolling Frequency
-Most Common Crime Types
+- Street Name
+- Coordinates
+- Safety Rating
+- Number of Crimes
+- Street Type
+- Traffic Level
+- Lighting Quality
+- CCTV Coverage
+- Distance to Nearest Police Station (km)
+- Pedestrian Activity
+- Nearby Public Spaces
+- Crime Severity Index
+- Police Patrolling Frequency
+- Most Common Crime Types
