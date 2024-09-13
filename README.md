@@ -18,7 +18,8 @@ SafeNav is an innovative platform designed to enhance women's safety, particular
 - **Fake Call Feature**: Trigger a fake call to simulate talking to someone important in case you feel threatened.
 
 ## Webpages
-![SafeNav Screenshot](assets/safenav_screenshot.png)
+![SafeNav Landing Page](https://github.com/talesoverfables/SafeNav/blob/main/Front-end/Landing-Page.jpg)
+![SafeNav Login Page](https://github.com/talesoverfables/SafeNav/blob/main/Front-end/Login-Page.jpg)
 
 ## Installation
 To run SafeNav locally, follow these steps:
