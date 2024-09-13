@@ -16,12 +16,8 @@ SafeNav is an innovative platform designed to enhance women's safety, particular
 - **Incident Reporting**: Report incidents of harassment or other dangers directly through the app.
 - **Route Safety Feedback**: Share and view feedback on the safety of routes from other users.
 - **Fake Call Feature**: Trigger a fake call to simulate talking to someone important in case you feel threatened.
-
-## Webpages
-![SafeNav Landing Page](https://github.com/talesoverfables/SafeNav/blob/main/Front-end/Landing-Page.jpg)
-![SafeNav Login Page](https://github.com/talesoverfables/SafeNav/blob/main/Front-end/Login-Page.jpg)
-
-## Installation
+  
+ ## Installation
 To run SafeNav locally, follow these steps:
 
 1. Clone the repository:
@@ -40,6 +36,12 @@ To run SafeNav locally, follow these steps:
    ```bash
    npm start
    ```
+
+## Webpages
+![SafeNav Landing Page](https://github.com/talesoverfables/SafeNav/blob/main/Front-end/Landing-Page.jpg)
+![SafeNav Login Page](https://github.com/talesoverfables/SafeNav/blob/main/Front-end/Login-Page.jpg)
+
+
 ## Usage
 - Open the web app and enter your start and destination points.
 - The app will show the safest route based on safety ratings, nearby facilities, and other data points.
